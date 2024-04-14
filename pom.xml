@@ -154,7 +154,7 @@
         <dependency>
             <groupId>org.pac4j</groupId>
             <artifactId>pac4j-saml</artifactId>
-            <version>5.0.0</version>
+            <version>5.4.1</version>
             <exclusions>
                 <!-- Shared libraries will be loaded from OSGI bundles -->
                 <exclusion>
